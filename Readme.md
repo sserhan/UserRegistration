@@ -16,6 +16,6 @@ avec dans le body un JSON comme celui ci-dessous
 }
 
 - GET http://localhost:8080/person/{name}
-avec entre crocher le nom de la personne recherchée.
+avec entre crochet le nom de la personne recherchée.
 Il faut lancer la requête POST avant le GET puis rechercher 
 la personne ajoutée : http://localhost:8080/person/TEST
